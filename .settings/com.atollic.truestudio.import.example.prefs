@@ -1,0 +1,4 @@
+EXAMPLE_PROJECT_COMPATIBLETS=4.2.0-
+EXAMPLE_PROJECT_ID=com.atollic.truestudio.exampleprojects.STM32F429I_Discovery_Touch_Panel
+EXAMPLE_PROJECT_REVISION=3
+eclipse.preferences.version=1

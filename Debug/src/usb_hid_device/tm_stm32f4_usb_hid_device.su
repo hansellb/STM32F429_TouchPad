@@ -1,0 +1,12 @@
+tm_stm32f4_usb_hid_device.c:24:27:TM_USB_HIDDEVICE_Init	16	static
+tm_stm32f4_usb_hid_device.c:43:27:TM_USB_HIDDEVICE_GetStatus	4	static
+tm_stm32f4_usb_hid_device.c:49:27:TM_USB_HIDDEVICE_MouseStructInit	16	static
+tm_stm32f4_usb_hid_device.c:62:27:TM_USB_HIDDEVICE_MouseSend	24	static
+tm_stm32f4_usb_hid_device.c:112:27:TM_USB_HIDDEVICE_MouseReleaseAll	16	static
+tm_stm32f4_usb_hid_device.c:131:27:TM_USB_HIDDEVICE_GamepadStructInit	16	static
+tm_stm32f4_usb_hid_device.c:158:27:TM_USB_HIDDEVICE_GamepadSend	24	static
+tm_stm32f4_usb_hid_device.c:206:27:TM_USB_HIDDEVICE_GamepadReleaseAll	24	static
+tm_stm32f4_usb_hid_device.c:225:27:TM_USB_HIDDEVICE_KeyboardStructInit	16	static
+tm_stm32f4_usb_hid_device.c:246:27:TM_USB_HIDDEVICE_KeyboardSend	32	static
+tm_stm32f4_usb_hid_device.c:286:27:TM_USB_HIDDEVICE_KeyboardReleaseAll	24	static
+tm_stm32f4_usb_hid_device.c:305:27:TM_USB_HIDDEVICE_SendCustom	16	static

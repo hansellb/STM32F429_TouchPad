@@ -1,0 +1,6 @@
+usbd_hid_core.c:439:17:USBD_HID_Init	16	static
+usbd_hid_core.c:465:17:USBD_HID_DeInit	16	static
+usbd_hid_core.c:483:17:USBD_HID_Setup	24	static
+usbd_hid_core.c:569:9:USBD_HID_SendReport	24	static
+usbd_hid_core.c:587:18:USBD_HID_GetCfgDesc	16	static
+usbd_hid_core.c:600:17:USBD_HID_DataIn	16	static

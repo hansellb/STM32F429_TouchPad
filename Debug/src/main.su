@@ -1,0 +1,4 @@
+tm_stm32f4_delay.h:282:22:Delayms	24	static
+main.c:70:5:main	80	static
+main.c:430:6:intToHexString	32	static
+main.c:507:13:TP_Config	8	static
